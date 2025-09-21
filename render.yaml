@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ultraxas-xmd
+    name: ultraxas-xmd v2
     env: node
     plan: free
     buildCommand: "npm install"
