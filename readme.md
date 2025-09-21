@@ -2,9 +2,10 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-# ULTRAXAS XMD
+# ULTRAXAS XMD V2
 > A next-gen WhatsApp bot powered by **ULTRAXAS DEV**. Deploy and Enjoy.  
 > The bot comes with 700+ powerful features and modern deployment support.  
+> **V2 by UltraXas** — The next evolution of XMD!
 
 ![ULTRAXAS XMD Logo](https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg)
 
@@ -79,8 +80,7 @@ First star ⭐ & Fork the repo using the button below!
 ---
 
 ## 📊 GitHub Analytics
-
-[![GitHub Repo](https://img.shields.io/badge/View%20on-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xason0/ULTRAXAS-XMD)
+[GitHub Repo](https://github.com/xason0/ULTRAXAS-XMD)
 
 ---
 
