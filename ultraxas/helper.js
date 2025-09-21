@@ -17,7 +17,7 @@ const createContext = (userJid, options = {}) => ({
         },
         externalAdReply: {
             title: options.title || BOT_NAME,
-            body: options.body || "Premium WhatsApp Bot Solution",
+            body: options.body || "Premium WhatsApp Bot Solution by UltraXas",
             thumbnailUrl: options.thumbnail || DEFAULT_THUMBNAIL,
             mediaType: 1,
             mediaUrl: options.mediaUrl || undefined,
