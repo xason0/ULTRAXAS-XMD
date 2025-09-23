@@ -1,0 +1,24 @@
+{
+  "name": "music-lyrics",
+  "version": "2.0.2",
+  "description": "A simple api to search for lyrics!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gabrideiros/music-lyrics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gabrideiros/music-lyrics/issues"
+  },
+  "keywords": ["discord", "music", "musica", "lyric", "lyrics", "letra", "letras", "spotify", "youtube", "brazil", "brasil"],
+  "homepage": "https://github.com/Gabrideiros/music-lyrics#readme",
+  "author": "Gabrideiros",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "superagent": "^6.1.0"
+  }
+}

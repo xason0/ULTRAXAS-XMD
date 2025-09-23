@@ -1,0 +1,33 @@
+{
+  "name": "latest",
+  "description": "Determine the latest available version of a package in npm",
+  "version": "0.2.0",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "contributors": [
+    "shama (https://github.com/shama)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahamas10/node-latest.git"
+  },
+  "bin": {
+    "latest": "./bin/latest.js"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "dependencies": {
+    "npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "latest",
+    "npm",
+    "version",
+    "up-to-date"
+  ]
+}

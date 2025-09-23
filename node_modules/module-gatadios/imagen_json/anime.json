@@ -1,0 +1,224 @@
+{
+  "infoImg": [
+    {
+      "index": 1,
+      "url": "https://telegra.ph/file/13739fe030f0a5c8cdd9c.jpg",
+      "name": "Son Goku",
+      "desp": "Dragon Ball Super",
+      "info": "Goku es un saiyajin que fue enviado a la Tierra cuando era un bebé con la misión de conquistar el planeta, pero debido a un golpe en la cabeza, perdió su instinto violento y se convirtió en un héroe. Es conocido por su insaciable apetito, su ingenuidad y su pasión por el combate. A lo largo de la serie, Goku se embarca en numerosas aventuras para proteger la Tierra y alcanzar nuevas metas, como convertirse en el luchador más fuerte del universo.",
+      "price": 200,
+      "class": "Común",
+      "type": "Anime",
+      "code": "95iYY%"
+    },
+    {
+      "index": 2,
+      "url": "https://telegra.ph/file/b31cd03f716d362b33716.jpg",
+      "name": "Mikasa Ackerman",
+      "desp": "Attack on Titan (Shingeki no Kyojin)",
+      "info": "Es una joven extremadamente habilidosa en combate, criada junto a Eren Yeager después de que sus padres fueran asesinados cuando eran niños. Es leal y protectora con Eren, a quien ve como su familia. Mikasa es conocida por su frialdad en combate y su gran destreza como soldado. Su objetivo principal es proteger a Eren y luchar contra los titanes que amenazan la humanidad.",
+      "price": 700,
+      "class": "Raro",
+      "type": "Anime, Acción, Drama, Fantasía, Horror",
+      "code": "U79Cn%"
+    },
+    {
+      "index": 3,
+      "url": "https://telegra.ph/file/98c672926fbc35a4b9948.jpg",
+      "name": "Thomas Stanley Holland",
+      "desp": "Spider-Man",
+      "info": "Tom Holland es conocido principalmente por interpretar a Peter Parker / Spider-Man en el Universo Cinematográfico de Marvel (MCU). Es un actor talentoso y versátil que ha recibido elogios por su actuación como el icónico superhéroe. Además de su papel en el MCU, Holland ha participado en otras producciones cinematográficas y teatrales.",
+      "price": 1100,
+      "class": "Épico",
+      "type": "Celebridad, Cine, Superhéroes, Acción, Drama",
+      "code": "95UQ%r"
+    },
+    {
+    "index": 4,
+    "url": "https://telegra.ph/file/f689a972cfc1c5efff189.jpg",
+    "name": "Izuku Midoriya",
+    "desp": "My Hero Academia",
+    "info": "Izuku, también conocido como Deku, es un adolescente que vive en un mundo donde casi toda la población posee superpoderes llamados 'Quirks'. A pesar de nacer sin un Quirk, Izuku sueña con convertirse en un héroe como su ídolo, All Might. Su determinación y espíritu lo llevan a ser seleccionado por All Might para heredar su Quirk y convertirse en su sucesor. Izuku es inteligente, compasivo y tiene una fuerte ética de trabajo, lo que lo lleva a enfrentarse a numerosos desafíos para alcanzar su objetivo de convertirse en el héroe número uno.",
+    "class": "Legendario",
+    "type": "Anime, Acción, Superhéroes, Drama, Fantasía",
+    "price": 1746,
+    "code": "3t3na^"
+   },
+     {
+    "index": 5,
+    "url": "https://telegra.ph/file/4b11562e08b8512868ed4.jpg",
+    "name": "Naruto Uzumaki",
+    "desp": "Naruto",
+    "info": "Naruto Es Un Ninja Muy Poderoso. Para Llegar Al Nivel Que TeníA Al Final De Naruto Shippuden, Naruto Tuvo Que Entrenar Durante Mucho Tiempo, Fortaleciendo Sus Habilidades Y Superando Sus Debilidades.",
+    "class": "Raro",
+    "type": "Anime, Acción, Aventura, Fantasía, Ninjas, Amistad, Superpoderes",
+    "price": 675,
+    "code": "bIQ^51"
+  },
+  {
+    "index": 6,
+    "url": "https://telegra.ph/file/2e163769ea2f66b4cb455.jpg",
+    "name": "Itachi Uchiha",
+    "desp": "Naruto",
+    "info": "Itachi Uchiha es un ninja de la Aldea Oculta de la Hoja y miembro del Clan Uchiha, conocido por su excepcional habilidad en el combate y su prodigioso talento como ninja. Aunque inicialmente se le presenta como un villano que asesinó a su propio clan, incluyendo a su familia, más tarde se revela que Itachi tenía razones complejas y justificadas para sus acciones, relacionadas con la protección de la aldea y su hermano menor, Sasuke. A pesar de ser un enigma para muchos, Itachi es un personaje profundamente complejo y atormentado por sus decisiones.",
+    "class": "Raro",
+    "type": "Fuego, Aventura, Fantasía",
+    "price": 678,
+    "code": "sEE8<9"
+  },
+  {
+    "index": 7,
+    "url": "https://telegra.ph/file/6861039367462755c84d1.jpg",
+    "name": "Monkey D. Luffy",
+    "desp": "One Piece",
+    "info": "Luffy es un joven pirata que sueña con convertirse en el Rey de los Piratas, el título que ostentaba el legendario Gol D. Roger. Luffy obtiene poderes de la Fruta del Diablo Gomu Gomu, lo que le permite estirar su cuerpo como si fuera goma. Es extremadamente valiente, imprudente y siempre está dispuesto a ayudar a sus amigos. Luffy es conocido por su naturaleza despreocupada y su inquebrantable determinación, así como por su capacidad para reunir a un variado grupo de piratas bajo su bandera en busca del tesoro conocido como el 'One Piece'.",
+    "class": "Común",
+    "type": "Anime, Acción, Aventura, Piratas, Fantasía, Amistad, Comedia",
+    "price": 153,
+    "code": "0<KHO7"
+  },
+  {
+    "index": 8,
+    "url": "https://telegra.ph/file/d311c7f4a32d843ace899.jpg",
+    "name": "Light Yagami",
+    "desp": "Death Note",
+    "info": "Light Yagami es un estudiante de preparatoria extremadamente talentoso y dedicado, quien encuentra un misterioso cuaderno llamado 'Death Note'. Este cuaderno tiene el poder de matar a cualquier persona cuyo nombre sea escrito en él, siempre y cuando el portador del cuaderno tenga la cara de la persona en mente. Light decide usar el Death Note para eliminar a criminales y crear un mundo libre de maldad, adoptando el alias de 'Kira'. Sin embargo, su búsqueda de justicia lo lleva por un oscuro camino hacia la megalomanía y la corrupción moral, convirtiéndose en un antihéroe extremadamente manipulador y calculador.",
+    "class": "Poco Común",
+    "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama",
+    "price": 308,
+    "code": "0#suv1"
+  },
+  {
+    "index": 9,
+    "url": "https://telegra.ph/file/70fadfc8d38f2d307cd35.jpg",
+    "name": "Misa Amane",
+    "desp": "Death Note",
+    "info": "Misa Amane es una famosa idol y modelo en el mundo ficticio de 'Death Note'. Después de que su familia fuera asesinada por un asesino en serie, Misa se convierte en la portadora de un segundo Death Note. Es extremadamente leal a Light Yagami, a quien idolatra y admira como a un dios. Misa está dispuesta a hacer cualquier cosa por él, incluso sacrificar su propia vida. A pesar de su apariencia inocente y cariñosa, Misa es astuta y está dispuesta a usar el Death Note para ayudar a Light en su búsqueda de justicia, convirtiéndose en una figura complicada dentro de la trama.",
+    "class": "Épico",
+    "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama, Ídolo",
+    "price": 808,
+    "code": "3i<M5z"
+  },
+  {
+    "index": 10,
+    "url": "https://telegra.ph/file/faa41f0647445c6097041.jpg",
+    "name": "Soichiro Yagami",
+    "desp": "Death Note",
+    "info": "El jefe de la Unidad de Investigación Especial de la Policía Japonesa en 'Death Note'. Es un hombre recto, justo y dedicado a su trabajo como policía. A lo largo de la serie, Yagami lidera la investigación para capturar al misterioso asesino en serie conocido como 'Kira', sin saber que su propio hijo, Light Yagami, es en realidad Kira. Soichiro se esfuerza por cumplir su deber como policía y enfrenta dilemas éticos difíciles a medida que se desarrolla la trama.",
+    "class": "Común",
+    "type": "Anime, Misterio, Psicológico, Sobrenatural, Thriller, Crimen, Drama, Policía",
+    "price": 108,
+    "code": "79UKU%"
+   },
+   {
+    "index": 11,
+    "url": "https://telegra.ph/file/a803779df82b23707a0af.jpg",
+    "name": "Asuna Yuuki",
+    "desp": "Sword Art Online",
+    "info": "Asuna Yuuki es una de las protagonistas principales de 'Sword Art Online'. En el juego de realidad virtual Sword Art Online, Asuna es una espadachina habilidosa y valiente que se destaca en combate. A lo largo de la serie, desarrolla una estrecha relación con el protagonista, Kirito, y juntos enfrentan numerosos desafíos dentro del juego y en el mundo real. Asuna es retratada como una persona fuerte, decidida y leal a sus amigos, dispuesta a hacer todo lo posible para protegerlos y lograr sus objetivos.",
+    "class": "Épico",
+    "type": "Anime, Acción, Aventura, Romance, Realidad Virtual, Fantasía",
+    "price": 1047,
+    "code": "B6YQ%8"
+  },
+  {
+    "index": 12,
+    "url": "https://telegra.ph/file/9d8777e630c32a244ce9c.jpg",
+    "name": "Erza Scarlet",
+    "desp": "Fairy Tail",
+    "info": "Erza Scarlet es una poderosa maga y miembro destacado del gremio de magos Fairy Tail. Es conocida como 'Erza la Titania' debido a su gran habilidad en combate y su posición de liderazgo dentro del gremio. Erza es una guerrera formidable que domina la magia del Re-Equipamiento, que le permite cambiar de armadura y armas en medio de la batalla según sea necesario. A pesar de su apariencia seria y decidida en combate, Erza también muestra un lado amable y compasivo hacia sus amigos y compañeros de gremio.",
+    "class": "Épico",
+    "type": "Anime, Acción, Aventura, Magia, Fantasía, Amistad, Comedia",
+    "price": 1179,
+    "code": "UP%30J"
+   },
+   {
+    "index": 13,
+    "url": "https://telegra.ph/file/69d9c8a90c332fac66f0c.jpg",
+    "name": "Yoichi Isagi",
+    "desp": "Blue Lock",
+    "info": "Yoichi Isagi es el protagonista principal de 'Blue Lock'. Es un talentoso delantero que juega al fútbol. A pesar de ser un jugador hábil, Isagi es pasivo y carece de confianza en sí mismo al principio de la serie. Sin embargo, su perspectiva cambia cuando es reclutado para participar en el proyecto 'Blue Lock', un programa de entrenamiento intensivo diseñado para crear al delantero definitivo. A medida que avanza en el programa, Isagi se enfrenta a desafíos tanto físicos como mentales mientras lucha por convertirse en un verdadero líder y alcanzar su máximo potencial como futbolista.",
+    "class": "Legendario",
+    "type": "Manga, Deportes, Drama, Competición, Superación, Psicológico",
+    "price": 1760,
+    "code": "V9Ua0%"
+  },
+  {
+    "index": 14,
+    "url": "https://telegra.ph/file/3508047226d3d171e564d.jpg",
+    "name": "Satoru Gojo",
+    "desp": "Jujutsu Kaisen",
+    "info": "Satoru Gojo es uno de los personajes más poderosos y carismáticos de 'Jujutsu Kaisen'. Es un hechicero extremadamente habilidoso y el maestro de la Escuela Jujutsu Tokyo. Gojo es conocido por su personalidad relajada y bromista, pero detrás de su actitud despreocupada se encuentra un luchador formidable y astuto. Posee una técnica única llamada 'Infinity', que le otorga un control absoluto sobre el espacio, haciéndolo prácticamente invencible en combate. Gojo es un mentor compasivo para los estudiantes de la escuela y está dispuesto a hacer lo que sea necesario para proteger a aquellos a quienes considera importantes.",
+    "class": "Épico",
+    "type": "Manga, Anime, Acción, Sobrenatural, Fantasía, Artes Marciales, Maestro, Poder",
+    "price": 1184,
+    "code": "7Xl4%A"
+  },
+  {
+    "index": 15,
+    "url": "https://telegra.ph/file/fc16a178da15e5c629cbe.jpg",
+    "name": "Brook",
+    "desp": "One Piece",
+    "info": "Brook es un esqueleto viviente y músico que se une a la tripulación de los Piratas del Sombrero de Paja en 'One Piece'. Originalmente, Brook fue un ser humano que consumió la Fruta Revive-Revive, lo que le permitió regresar a la vida después de morir. Sin embargo, su alma terminó regresando a su esqueleto. Brook es un espadachín habilidoso y tiene una personalidad alegre y extravagante. Es conocido por su amor por la música y su habilidad para tocar el violín, así como por su tendencia a hacer chistes sobre su naturaleza esquelética.",
+    "class": "Poco Común",
+    "type": "Manga, Anime, Aventura, Piratas, Comedia, Fantasía, Música",
+    "price": 300,
+    "code": "8loJ5@"
+  },
+  {
+    "index": 16,
+    "url": "https://telegra.ph/file/c33eca3c3b52e11697b65.jpg",
+    "name": "Roronoa Zoro",
+    "desp": "One Piece",
+    "info": "Zoro Es Uno De Los Tripulantes De La Tripulación De Luffy, Y Es Uno  De Los Más Fuertes Y Esforzados. Su Personalidad Es Fuerte, Determinada Y Dura, Pero También Tiene Un Gran Corazón Y Una Gran Lealtad A Su Capitán.",
+    "class": "Supremo",
+    "type": "Manga, Anime, Aventura, Piratas, Artes Marciales, Acción, Comedia",
+    "price": 19256,
+    "code": "s3l0p<"
+  },
+  {
+    "index": 17,
+    "url": "https://telegra.ph/file/d48a22ae1dc114c19c653.jpg",
+    "name": "Alastor",
+    "desp": "Hazbin Hotel",
+    "info": "Alastor es un demonio poderoso y carismático conocido como 'El Radio Demonio'. Es un ser misterioso que aparece en el infierno y rápidamente se hace un nombre como uno de los demonios más temidos y respetados. Alastor tiene una personalidad encantadora y manipuladora, con una inclinación por el caos y la destrucción, pero siempre manteniendo una sonrisa siniestra y un aire de cortesía. Es hábil en el uso de la magia y tiene una afinidad particular por las radios y las emisiones de radio. Aunque puede parecer encantador, Alastor es un ser peligroso y no se puede confiar en sus verdaderas intenciones.",
+    "class": "Raro",
+    "type": "Animación, Comedia, Sobrenatural, Demonios, Fantasía, Horror, Misterio",
+    "price": 700,
+    "code": "<84NMj"
+  },
+  {
+    "index": 18,
+    "url": "https://telegra.ph/file/4f9ba16b9292716d8cccb.jpg",
+    "name": "Vox",
+    "desp": "Hazbin Hotel",
+    "info": "Vox es un demonio tecnológico y un influencer en el infierno. Es conocido por su aspecto mecánico y su habilidad para manipular tecnología avanzada. Vox se presenta como un ser cibernético y egocéntrico que utiliza su influencia en las redes sociales infernales para ganar seguidores y notoriedad. A menudo se le muestra como un antagonista astuto y manipulador, dispuesto a usar la tecnología y la información para lograr sus objetivos. Su personalidad está marcada por su amor por la tecnología y su desprecio por los seres orgánicos.",
+    "class": "Raro",
+    "type": "Animación, Comedia, Sobrenatural, Demonios, Fantasía, Tecnología, Influencer",
+    "price": 659,
+    "code": "w@q09O"
+  },
+  {
+    "index": 19,
+    "url": "https://telegra.ph/file/d944ef23bbce001e8524f.jpg",
+    "name": "Goku Black",
+    "desp": "Dragon Ball Super",
+    "info": "Goku Black es una versión alternativa malvada de Goku que proviene de un universo alternativo. En este universo, Goku Black es en realidad Zamasu, un Kaio-shin (dios de la creación) que ha obtenido el cuerpo de Goku y ha tomado su apariencia. Utilizando las Bolas de Dragón, Zamasu intercambia cuerpos con Goku y luego procede a sembrar el caos y la destrucción en varios universos. Goku Black es extremadamente poderoso y muestra un dominio superior de las habilidades de Goku, además de poseer una mentalidad malévola y despiadada. Es conocido por su aspecto físico similar a Goku pero con una aura oscura y maligna.",
+    "class": "Legendario",
+    "type": "Anime, Acción, Aventura, Ciencia Ficción, Fantasía, Artes Marciales, Universos Paralelos",
+    "price": 2178,
+    "code": "TA08*p"
+  },
+  {
+    "index": 20,
+    "url": "https://telegra.ph/file/75dda3736c12370c62846.jpg",
+    "name": "Polo Benavent",
+    "desp": "Élite",
+    "info": "Leopoldo Benavent Villada, más comúnmente conocido como Polo, fue un personaje principal en la serie Élite de Netflix. Era un estudiante que asistía a Las Encinas que se convirtió en objeto de odio masivo después del asesinato accidental de su compañera de clase, Marina Nunier Osuna. Fue interpretado por Álvaro Rico.",
+    "class": "Épico",
+    "type": "Drama adolescente, Intriga, Suspenso, Crimen, Amoríos, Secretos, Escuela privada, Clase social, Suspenso, Serie, Triángulos amorosos, Diversidad, Juventud, Traición, Misterio",
+    "price": 1096,
+    "code": "t7_o0w"
+  }
+  ]
+}
