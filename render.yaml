@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: ultraxas-xmd v2
-    env: node
-    plan: free
-    buildCommand: "npm install"
-    startCommand: "node index.js"
