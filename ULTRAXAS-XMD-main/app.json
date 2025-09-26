@@ -1,0 +1,214 @@
+
+
+{
+  "name": "ULTRAXAS XMD",
+  "description": "Best WhatsApp bot developed by ultra",
+  "keywords": ["bot", "node", "baileys", "whatsapp"],
+  "logo": "https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg",
+  "repository": "https://github.com/bwmxmd254/BWM-XMD",
+  "success_url": "/",
+  "stack": "heroku-24",
+  "env": {
+    "PREFIX": {
+      "description": "Choose your prefix for your bot",
+      "value": ".",
+      "required": true
+    },
+    "AUTO_REJECT_CALL": {
+      "description": "Enter yes for your bot to auto reject calls",
+      "value": "no",
+      "required": false
+    },
+    "AUTO_BIO": {
+      "description": "Enter yes for your bot to auto update bio",
+      "value": "no",
+      "required": false
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "Enter yes for your bot to notify people that you have viewed there status",
+      "value": "no",
+      "required": false
+    },
+    "REPLY_STATUS_TEXT": {
+      "description": "Enter here your message for your bot to notify people that you have viewed there status",
+      "value": "ʏᴏᴜʀ sᴛᴀᴛᴜs ʜᴀᴠᴇ ʙᴇᴇɴ ᴠɪᴇᴡᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅",
+      "required": false
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Your status will be read automatically (type yes to activate or no to deactivate)",
+      "value": "yes",
+      "required": false
+    },
+    "AUTO_DOWNLOAD_STATUS": {
+      "description": "Status will be sent to your inbox automatically (type yes to activate or no to deactivate)",
+      "value": "no",
+      "required": false
+    },
+    "AUTO_READ": {
+      "description": "Messages will be marked as read automatically (type yes to activate or no to deactivate)",
+      "value": "no",
+      "required": false
+    },
+    "BOT_NAME": {
+      "description": "Name for your bot",
+      "value": "ULTRAXAS XMD",
+      "required": false
+    },
+    "BOT_URL": {
+      "description": "Image or video url for your bot menu",
+      "value": "https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg",
+      "required": false
+    },
+    "PUBLIC_MODE": {
+      "description": "Type yes for public mode or no for private mode",
+      "value": "yes",
+      "required": false
+    },
+    "HEROKU_API_KEY": {
+      "description": "Enter your Heroku API key to be able to control your vars",
+      "value": "",
+      "required": false 
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Enter your Heroku app name to be able to control vars",
+      "value": "",
+      "required": false 
+    },
+    "OWNER_NUMBER": {
+      "description": "Enter your number eg, 2547xxxxxxx",
+      "value": "",
+      "required": false 
+    },
+    "STATUS_REACT_EMOJIS": {
+      "description": "Enter your auto like status emojis",
+      "value": "💚,🚀,🌎,✅",
+      "required": false 
+    },
+    "AUTO_REACT": {
+      "description": "Enter your auto react messages",
+      "value": "no",
+      "required": false 
+    },
+    "AUTO_REACT_STATUS": {
+      "description": "Enter yes for your bot to auto like status",
+      "value": "yes",
+      "required": false 
+    },
+    "OWNER_NAME": {
+      "description": "Owner name",
+      "value": "ultra",
+      "required": false
+    },
+    "SESSION_ID": {
+      "description": "Your session ID",
+      "value": "",
+      "required": true
+    },    
+    "STARTING_BOT_MESSAGE": {
+      "description": "Enable starting message (yes/no)",
+      "value": "yes",
+      "required": true
+    },
+    "PRESENCE": {
+      "description": "Presence mode: 1=online, 2=typing, 3=recording",
+      "value": "",
+      "required": false
+    },
+    "ANTIDELETE_SENT_INBOX": {
+      "description": "Enable anti-delete to be sent inbox (yes/no)",
+      "value": "yes",
+      "required": false
+    },
+    "ANTIDELETE_RECOVER_CONVENTION": {
+      "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
+      "value": "no",
+      "required": false
+    },	  
+    "GROUPANTILINK": {
+      "description": "Enable anti-link in groups (yes/no)",
+      "value": "no",
+      "required": false
+    },
+    "CHATBOT": {
+      "description": "Enable text chatbot (yes/no)",
+      "value": "no",
+      "required": false
+    },
+    "WELCOME_MESSAGE": {
+      "description": "Enable welcoming message in groups (yes/no)",
+      "value": "no",
+      "required": false
+    },
+    "GOODBYE_MESSAGE": {
+      "description": "Enable  goodbye in groups (yes/no)",
+      "value": "no",
+      "required": false
+    },
+    "AUDIO_CHATBOT": {
+      "description": "Enable audio chatbot (yes/no)",
+      "value": "no",
+      "required": false
+    },
+    "MENU_TOP_LEFT": {
+      "description": "Menu top left design",
+      "value": "┌─❖",
+      "required": false
+    },
+    "MENU_BOT_NAME_LINE": {
+      "description": "Bot name line",
+      "value": "│ ",
+      "required": false
+    },
+    "MENU_BOTTOM_LEFT": {
+      "description": "Menu bottom left",
+      "value": "└┬❖",
+      "required": false
+    },
+    "MENU_GREETING_LINE": {
+      "description": "Greeting line",
+      "value": "┌┤ ",
+      "required": false
+    },
+    "MENU_DIVIDER": {
+      "description": "Menu divider",
+      "value": "│└────────┈⳹",
+      "required": false
+    },
+    "MENU_USER_LINE": {
+      "description": "User line in menu",
+      "value": "│🕵️ ",
+      "required": false
+    },
+    "MENU_DATE_LINE": {
+      "description": "Date line in menu",
+      "value": "│📅 ",
+      "required": false
+    },
+    "MENU_TIME_LINE": {
+      "description": "Time line in menu",
+      "value": "│⏰ ",
+      "required": false
+    },
+    "MENU_STATS_LINE": {
+      "description": "Stats line in menu",
+      "value": "│⭐ ",
+      "required": false
+    },
+    "MENU_BOTTOM_DIVIDER": {
+      "description": "Bottom divider of menu",
+      "value": "└─────────────┈⳹",
+      "required": false
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
